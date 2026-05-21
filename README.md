@@ -16,15 +16,25 @@ Enable data-driven maintenance scheduling
 🏗️ System Workflow
 
 Sensor Data Ingestion
+
    ↓
+
 Feature Engineering (Rolling Stats, Noise Detection)
+
    ↓
+
 Model Training (Multiple ML Algorithms)
+
    ↓
+
 Health Score Prediction / RUL Estimation
+
    ↓
+
 Threshold-Based Failure Alert System
+
    ↓
+
 Maintenance Decision Support Output
 
 ⚙️ Tech Stack
